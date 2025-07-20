@@ -6,7 +6,9 @@
 - 🎓 **Department of Statistics and Data Science, Fudan University**  
   *Bachelor of Science (B.S.), 2021–2025*, Mayor in **Statistics**
   
-- 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing**.
+- 🌱 I’m currently interested in **Machine Learning** and **Natural Language Processing**
+
+- 📫 How to reach me: huangrui9699@outlook.com
 
 
 <!--
