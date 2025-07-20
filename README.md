@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there, I am Ricky 👋
+
+- 🔭 I’m currently persuing a Master's Degree in **Business Analysis** at Peking University.
+- 🎓 I hold a Bachelor's Degree in **Statistics** from Fudan University.
+- 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing**.
+- 
+![Trophies](https://github-profile-trophy.vercel.app/?username=linmuqian&theme=radical)
 
 <!--
 **linmuqian/linmuqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
