@@ -8,17 +8,6 @@
   
 - 🌱 I’m currently learning **Deep Learning** and **Natural Language Processing**.
 
-- 📫 How to reach me: huangrui9699@outlook.com.
-
-<!-- 统计卡片（左侧） -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=linmuqian&count_private=true&show_icons=true&theme=radical" alt="Stats" />
-</div>
-
-<!-- 语言占比（右侧，环形图） -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=linmuqian&layout=donut&theme=radical&hide=Shell,HTML" alt="Langs" />
-</div>
 
 <!--
 **linmuqian/linmuqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
