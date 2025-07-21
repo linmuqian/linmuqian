@@ -8,6 +8,8 @@
   
 - 🌱 I’m currently interested in **Machine Learning** and **Natural Language Processing**
 
+- 🤔 I’m proficient in **Python/R**
+
 - 📫 How to reach me: ruihuang9699@gmail.com
 
 
