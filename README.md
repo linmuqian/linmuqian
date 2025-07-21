@@ -1,6 +1,6 @@
 ## Hi there, I am Ricky 👋
 
-- 🔭 **Guanghua School of Management, Peking University**  
+- 🎓 **Guanghua School of Management, Peking University**  
   *Master of Finance (MF), 2025–Present*, Concentration in **Business Analytics**
   
 - 🎓 **Department of Statistics and Data Science, Fudan University**  
