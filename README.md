@@ -8,7 +8,7 @@
   
 - 🌱 I’m currently interested in **Machine Learning** and **Natural Language Processing**
 
-- 📫 How to reach me: huangrui9699@outlook.com
+- 📫 How to reach me: ruihuang9699@gmail.com
 
 
 <!--
