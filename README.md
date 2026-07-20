@@ -1,14 +1,14 @@
 ## Hi there, I am Ricky 👋
 
 - 🎓 **Guanghua School of Management, Peking University**  
-  *Master of Finance (MF), 2025–Present*, Concentration in **Business Analytics**
+  *Master of Finance (MF), 2025–Present*, Concentration in **Finance**
   
 - 🎓 **Department of Statistics and Data Science, Fudan University**  
   *Bachelor of Science (B.S.), 2021–2025*, Mayor in **Statistics**
   
-- 🌱 I’m currently interested in **Machine Learning** and **Natural Language Processing**
+- 🌱 I’m currently interested in **Machine Learning** and **quantitative finance**
 
-- 🤔 I’m proficient in **Python/R**
+- 🤔 I’m proficient in **Python**
 
 - 📫 How to reach me: ruihuang9699@gmail.com
 
